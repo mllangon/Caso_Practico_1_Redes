@@ -11,7 +11,7 @@ Tareas y Requerimientos:
 - Calcular la tasa de transmisión máxima necesaria utilizando la fórmula de Shannon para un canal con un ancho de banda y SNR definidos.
 - Seleccionar la modulación adecuada para los enlaces cableados e inalámbricos.
 
-3.Capa de Red:
+3. Capa de Red:
 - Diseñar el esquema de direccionamiento IP para las oficinas (subneteo, cálculo de broadcast, rangos de hosts).
 - Aplicar el algoritmo de Dijkstra para determinar rutas óptimas entre sedes; mencionar cómo se usaría el enrutamiento por inundación en caso de contingencia.
 
